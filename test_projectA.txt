@@ -1,7 +1,3 @@
 test
 
-arief
-
-dede
-
-arwin
+new content
